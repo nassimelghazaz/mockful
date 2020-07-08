@@ -46,5 +46,31 @@
         "recette_nb_graines_germination": null,
         "recette_temperature_germination": null,
         "recette_fichecultureId": null
+    },
+       {
+        "tache_id": 376,
+        "tache_numeroTache": 2,
+        "tache_numeroEtagere": 0,
+        "tache_numeroEtagereSuivante": null,
+        "tache_terminee": false,
+        "tache_typetacheId": 6,
+        "tache_recetteId": 7,
+        "tache_fermeId": 1,
+        "typetache_id": 4,
+        "typetache_libelle": "Semis à exécuter",
+        "typetache_typeSalleId": 2,
+        "typetache_retardAdmissible": 60,
+        "typetache_priorite": 6,
+        "recette_id": 7,
+        "recette_libelle_plante": "ok",
+        "recette_date_creation": null,
+        "recette_date_modification": null,
+        "recette_duree_germination": null,
+        "recette_nombre_periode": null,
+        "recette_nb_graines_germination": null,
+        "recette_temperature_germination": null,
+        "recette_fichecultureId": null
     }
+    
+
 ]
